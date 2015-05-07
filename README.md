@@ -4,11 +4,11 @@ If you're travelling to Italy you have tons of places to visit before feeling th
 
 Since this guide can't cover everything, feel free to ask on Reddit by [paging me](https://www.reddit.com/user/tekanet/) or posting a question to [/r/Italy](https://www.reddit.com/r/italy)
 
-## Moving around
+## Getting around
 
 ### Underground, buses, trams, trains
 
-The two main companies managing public transportation are ATM and Trenord. There are lot of ticket combinations and special fares but the most important thing you need to know is that with an ATM 1.50 EUR ticket you can travel in the whole urban area, 1 Metro trip, unlimited movements on buses, trams and trains (S lines operated by Trenord) within 90 minutes limit. Be aware that some key places like EXPO, Fiera, Forum di Assago are outside urban area and require a different ticket.
+The two main companies managing public transportation are ATM and Trenord. There are lot of ticket combinations and special fares but the most important thing you need to know is that **with an ATM 1.50 EUR ticket you can travel within the whole urban area**, 1 Metro trip, unlimited movements on buses, trams and trains (S lines operated by Trenord) within 90 minutes limit. Be aware that some key places like EXPO, Fiera, Forum di Assago are outside urban area and require a different ticket.
 
 - ATM [[Website](http://www.atm.it/en/Pages/default.aspx)], [[Mobile apps](http://www.atm.it/it/ViaggiaConNoi/Pagine/ATMMobile.aspx)]: underground (Metropolitana Milanese, red M sign), surface buses and trams
 - Trenord [[Website](http://www.trenord.it/)]: trains and suburban S lines (violet S sign)
