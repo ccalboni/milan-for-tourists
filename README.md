@@ -1,4 +1,8 @@
-## A brief intro ##
+# Milan for tourists
+
+*Currently under construction. Last update May, 2015*
+
+## A brief intro
 
 If you're travelling to Italy you have tons of places to visit before feeling the need to add Milan to your list. In the unfortunate (according to some) case you're going to visit this big city, here you can find some useful information and tips curated by locals that may make your staying more pleasurable.
 
