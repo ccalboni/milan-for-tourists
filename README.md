@@ -102,6 +102,12 @@ Italians have an opinion about everything, even on topics they don't know at all
 
 > [[deleted user]](https://www.reddit.com/r/italy/comments/11kee5/ill_be_in_milan_for_one_day_what_should_i_do/c6nbbb3): "Great place to eat: [Pane & Vin](http://www.panevinomilano.com/)o at Via Torino, during the happy hour - you'll get a cocktail and a nice buffet for 8 or 9€. There's another "apperitivo" place called "Cheese" and which is next to the Columns of San Lorenzo"
 
+## Vegetarian an vegan
+
+Vegetarian and vegan meals are pretty easy to find everywhere. There are however places where the kitchen is specifically vegetarian or vegan.
+
+- [Flower Burger](http://www.flowerburger.it/): in the last 2 or 3 years, places selling hamburgers sprouted all around the city. Most of the times they all have a vegan burger in their list, but if you're looking for a place completely Veg, head to this place in Porta Venezia. Their burgers look delicious on their [instagram account](https://www.instagram.com/flower_burger/)!
+
 # Points of interest
 
 ## History, art, museums
